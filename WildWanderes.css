@@ -1,0 +1,99 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px rgb(0, 81, 255);
+  }
+h2{
+    text-align:justify;
+}
+  h1.Header {
+    text-align: center;
+    text-shadow: 2px 2px whitesmoke;
+  }
+h2.con{
+    text-align: center;
+    text-shadow: 2px 2px rgb(43, 183, 226);
+}
+
+h4{
+    text-align: center;
+    text-shadow: 2px 2px rgb(43, 183, 226);
+}
+
+h3, iframe {
+    text-align: center;
+}
+  
+body {
+
+    background-color: #669966;
+ }
+ div.Imagecentre img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+}
+
+div.aboutus {
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px black;
+
+}
+
+div.Packages {
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.608);
+
+}
+
+div.Pricing {
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.608);
+
+}
+
+div.packageinclusion{
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.608);   
+}
+
+p {
+    font-size: 18px;
+  }
+
+  div.Contact {
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.608);   
+  }
+
+
+div.faq, table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.608);   
+  }
+
+
+  div.knowmore{
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.608); 
+  }
+
+
+  .button {
+    background-color: #aa8e04;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
